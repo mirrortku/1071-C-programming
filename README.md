@@ -102,64 +102,62 @@
 
  ```
  Main Menu 
- - Rectangle 
- - Vertical Triangle 
- - Exit => 1 
+ 1. Rectangle 
+ 2. Vertical Triangle 
+ 3. Exit => 1 
  Enter height and width: 5 8 
  ******** 
- -      *
- -      * 
- -      * 
+ *      *
+ *      * 
+ *      * 
  ******** 
  Main Menu 
- - Rectangle 
- - Vertical Triangle
- -  3. Exit => 2
- -  Enter height and type: 5 1
- - 
+ 1. Rectangle 
+ 2. Vertical Triangle
+ 3.  3. Exit => 2
+ 4.  Enter height and type: 5 1
+  * 
   ** 
- - * 
- -  *
+  * * 
+  *  *
   *****
   Main Menu 
- - Rectangle
- - Vertical Triangle
- - Exit => 2 
+  1. Rectangle
+  2. Vertical Triangle
+  3. Exit => 2 
   Enter height and type: 5 2
       *  
      **
     * *
- -  * 
+   *  * 
   *****
    Main Menu 
- - Rectangle 
- - Vertical Triangle
- - Exit => 2 
+  1. Rectangle 
+  2. Vertical Triangle
+  3. Exit => 2 
   Enter height and type: 5 3
   *****
- -  * 
+   *  * 
     * *
      ** 
       * 
   Main Menu 
- - Rectangle 
- - Vertical Triangle
- - Exit => 2 
+  1. Rectangle 
+  2. Vertical Triangle
+  3. Exit => 2 
   Enter height and type: 5 4 
   ***** 
- -  * 
- - * 
+  *  * 
+  * * 
   ** 
- -  
+  *  
    Main Menu 
- - Rectangle 
- - Vertical  Triangle 
- - Exit => 3
+  1. Rectangle 
+  2. Vertical  Triangle 
+  3. Exit => 3
  ```
- 
-
- -[<選單2>]
+  -[<選單2>](https://github.com/mirrortku/1071-C-programming/blob/master/w04/menu2.cpp "menu2.cpp")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUzODcyNDgsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbLTMzNjU3MjQwNCw5OTY5MDU2NzddfQ==
 -->
