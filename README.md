@@ -159,9 +159,28 @@
   -[<選單2>](https://github.com/mirrortku/1071-C-programming/blob/master/w04/menu2.cpp "menu2.cpp")畫長方形、各種直角三角形等腰三角形，有實心和空心
  For Rectangle
   ```
-
-  Main Menu 1. Rectangle 2. Vertical Triangle 3. Tsosceles Triangle 4. Exit => 1 Enter height, width, filled: 5 8 0 ******** * * * * * * ******** Main Menu 1. Rectangle 2. Vertical Triangle 3. Tsosceles Triangle 4. Exit => 1 Enter height, width, filled: 5 8 1 ******** ******** ******** ******** ******** Main Menu 1. Rectangle 2. Vertical Triangle 3. Tsosceles Triangle 4. Exit =>
+  Main Menu
+   1. Rectangle
+   2. Vertical Triangle
+   3. Tsosceles Triangle
+   4. Exit 
+   => 1 
+   Enter height, width, filled: 5 8 0 
+   ******** * * * * * * ******** 
+   Main Menu 
+  1. Rectangle 
+  2. Vertical Triangle 
+  3. Tsosceles Triangle 
+  4. Exit
+   => 1 Enter height, width, filled: 5 8 1 
+   ******** ******** ******** ******** ******** 
+   Main Menu
+   1. Rectangle
+   2. Vertical Triangle
+   3. Tsosceles Triangle
+   4. Exit
+   =>4
   ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDE2MzMxMiw5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbMTg2NjU0NjYsOTk2OTA1Njc3XX0=
 -->
