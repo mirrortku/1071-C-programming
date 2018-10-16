@@ -63,8 +63,20 @@ Enter year: 2020
 Year 2020 is a leap year. 
 Enter year: 2100 
 Year 2100 is not a leap year.
-    Enter year: -1
+Enter year: -1
+```
+ - [Convert seconds using while loop](https://github.com/mirrortku/1071-C-programming/blob/master/w03/sec%E6%8F%9B%E7%AE%97(while).cpp "sec換算(while).cpp")
+```
+Enter seconds: 20000
+ 20000 seconds = 05:33:20
+  Enter seconds: 10000
+   10000 seconds = 02:46:40
+    Enter seconds: 30000
+30000 seconds = 08:20:00 
+Enter seconds: 100000 
+100000 seconds = 27:46:40 
+ Enter seconds: -1
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk1MzI1MjVdfQ==
+eyJoaXN0b3J5IjpbLTE0MTA4MTU2NjNdfQ==
 -->
