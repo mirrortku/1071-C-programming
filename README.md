@@ -43,6 +43,11 @@ Enter year: 2100
 Year 2100 is not a leap year.
 ```
 
+ - [Input a seconds, convert to hh:mm:ss](https://github.com/mirrortku/1071-C-programming/blob/master/w02/2018-09-18-3.cpp "2018-09-18-3.cpp")
+```
+ Enter seconds: 20000 
+20000 seconds = 05:33:20
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NzA0MzY3XX0=
+eyJoaXN0b3J5IjpbMTIxMzQzNTUzMl19
 -->
