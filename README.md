@@ -113,9 +113,12 @@
  ******** 
  Main Menu 
  4. Rectangle 
- 5. 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 1 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 2 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
+ 5. Vertical Triangle
+ 6.  3. Exit => 2
+ 7.  Enter height and type: 5 1
+  * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 2 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
  ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY3NzExMTQsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbLTIxNDE5NDk4NDMsOTk2OTA1Njc3XX0=
 -->
