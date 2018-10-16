@@ -77,8 +77,10 @@
  100000 seconds = 27:46:40 
  Enter seconds: -1
 ```
- - [BMI using while]
-
+ - [BMI using while](https://github.com/mirrortku/1071-C-programming/blob/master/w03/BMI%E8%A8%88%E7%AE%97.cpp "BMI計算.cpp")
+```
+身高(m):
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEzMTc1XX0=
+eyJoaXN0b3J5IjpbLTEwNzMzMzQ5ODRdfQ==
 -->
