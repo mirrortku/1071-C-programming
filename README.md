@@ -24,7 +24,11 @@
 >  For equation 2 x^2 -3 x + 1 =0, two roots are 
 >  x1 = 1.0 
 >  x2 = 0.5
+****
+**w02**
+
+ - Leap year[2018-09-18-2.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/w02/2018-09-18-2.cpp "2018-09-18-2.cpp")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE1MDM0MjRdfQ==
+eyJoaXN0b3J5IjpbNjc5NDYzNzI4XX0=
 -->
