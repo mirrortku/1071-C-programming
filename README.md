@@ -33,50 +33,52 @@
  - [Leap year](https://github.com/mirrortku/1071-C-programming/blob/master/w02/2018-09-18-2.cpp "2018-09-18-2.cpp")
 
 ```
-Enter year: 2000
-Year 2000 is a leap year.
+ Enter year: 2000
+ Year 2000 is a leap year.
+ 
+ Enter year: 2018
+ Year 2018 is not a leap year.
 
-Enter year: 2018
-Year 2018 is not a leap year.
+ Enter year: 2020
+ Year 2020 is a leap year.
 
-Enter year: 2020
-Year 2020 is a leap year.
-
-Enter year: 2100
-Year 2100 is not a leap year.
+ Enter year: 2100
+ Year 2100 is not a leap year.
 ```
 
  - [Input a seconds, convert to hh:mm:ss](https://github.com/mirrortku/1071-C-programming/blob/master/w02/2018-09-18-3.cpp "2018-09-18-3.cpp")
 ```
-Enter seconds: 20000 
-20000 seconds = 05:33:20
+ Enter seconds: 20000 
+ 20000 seconds = 05:33:20
 ```
 ****
 **w03**
  - [Leap year using while loop](https://github.com/mirrortku/1071-C-programming/blob/master/w03/leap%20year(while).cpp "leap year(while).cpp")
 ```
-Enter year: 2000
-Year 2000 is a leap year.
-Enter year: 2018 
-Year 2018 is not a leap year.
-Enter year: 2020
-Year 2020 is a leap year. 
-Enter year: 2100 
-Year 2100 is not a leap year.
-Enter year: -1
+ Enter year: 2000
+ Year 2000 is a leap year.
+ Enter year: 2018 
+ Year 2018 is not a leap year.
+ Enter year: 2020
+ Year 2020 is a leap year. 
+ Enter year: 2100 
+ Year 2100 is not a leap year.
+ Enter year: -1
 ```
  - [Convert seconds using while loop](https://github.com/mirrortku/1071-C-programming/blob/master/w03/sec%E6%8F%9B%E7%AE%97(while).cpp "sec換算(while).cpp")
 ```
-Enter seconds: 20000
+ Enter seconds: 20000
  20000 seconds = 05:33:20
-  Enter seconds: 10000
-   10000 seconds = 02:46:40
-    Enter seconds: 30000
-30000 seconds = 08:20:00 
-Enter seconds: 100000 
-100000 seconds = 27:46:40 
+ Enter seconds: 10000
+ 10000 seconds = 02:46:40
+ Enter seconds: 30000
+ 30000 seconds = 08:20:00 
+ Enter seconds: 100000 
+ 100000 seconds = 27:46:40 
  Enter seconds: -1
 ```
+ - [BMI using while]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA4MTU2NjNdfQ==
+eyJoaXN0b3J5IjpbLTExNzEzMTc1XX0=
 -->
