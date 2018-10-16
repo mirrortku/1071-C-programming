@@ -79,8 +79,12 @@
 ```
  - [BMI using while](https://github.com/mirrortku/1071-C-programming/blob/master/w03/BMI%E8%A8%88%E7%AE%97.cpp "BMI計算.cpp")
 ```
-身高(m):
+身高(m):1.55
+體重(kg):52
+正常範圍
 ```
+ - sum(n1,n2)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMzMzQ5ODRdfQ==
+eyJoaXN0b3J5IjpbMjkyNDc1NjZdfQ==
 -->
