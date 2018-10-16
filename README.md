@@ -97,8 +97,9 @@
 ```
 ****
 **w04**
- - < 選單 > 畫長方形及四種直角三角形，全部是沒有填滿
+ - [< 選單 >](https://github.com/mirrortku/1071-C-programming/blob/master/w04/.cpp ".cpp") 畫長方形及四種直角三角形，全部沒有填滿
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAwMjg2NjgsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbLTk1NjkxNjY3NSw5OTY5MDU2NzddfQ==
 -->
