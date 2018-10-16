@@ -234,12 +234,12 @@
  4. Exit
  => 3 
  Enter height, type, filled: 6 1 0
-      * 
-     * * 
-    *   * 
-   *     * 
-  *       *
-  ********** 
+       * 
+      * * 
+     *   * 
+    *     * 
+   *       *
+  *********** 
  Main Menu 
  1. Rectangle 
  2. Vertical Triangle 
@@ -247,7 +247,12 @@
  4. Exit 
  => 3 
  Enter height, type, filled: 6 2 1 
- *********** ********* ******* ***** *** * 
+ *********** 
+   *********
+    *******
+     *****
+      *** 
+       * 
  Main Menu 
  1. Rectangle 
  2. Vertical Triangle 
@@ -255,6 +260,7 @@
  4. Exit 
  =>
   ```
+  ***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY0MDAwMiw5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
