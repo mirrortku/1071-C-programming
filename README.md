@@ -53,8 +53,18 @@ Year 2100 is not a leap year.
 ```
 ****
 **w03**
- - [Leap year using while loop][leap year(while).cpp](https://github.com/mirrortku/1071-C-programming/blob/master/w03/leap%20year(while).cpp "leap year(while).cpp")
-
+ - [Leap year using while loop](https://github.com/mirrortku/1071-C-programming/blob/master/w03/leap%20year(while).cpp "leap year(while).cpp")
+```
+Enter year: 2000
+ Year 2000 is a leap year.
+  Enter year: 2018 
+  Year 2018 is not a leap year.
+   Enter year: 2020
+   Year 2020 is a leap year.
+    Enter year: 2100 
+    Year 2100 is not a leap year.
+     Enter year: -1
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1ODkzODM4XX0=
+eyJoaXN0b3J5IjpbNDUyNzA1NV19
 -->
