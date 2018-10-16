@@ -263,10 +263,38 @@
 ****
 **w05**
   - [<選單>](https://github.com/mirrortku/1071-C-programming/blob/master/w05/%E9%81%B8%E5%96%AE(1).cpp "選單(1).cpp")leap, timeconvert, add two more functions into menu
+For leap:
  ```
- 
+ Main Menu
+  1. leap 
+  2. 2. timeconvert 
+  3. 3. Exit 
+  => 1 
+  Enter year: 2000 
+  Year 2000 is a leap year. 
+  Main Menu
+  4. leap 
+  5. 2. timeconvert 
+  6. 3. 
+  Exit 
+  => 1 
+  Enter year: 2018 
+  Year 2018 is not a leap year. 
+  Main Menu 
+  7. leap 
+  8. 2. timeconvert
+  9.  3. 
+  Exit 
+  => 1 
+  Enter year: 2020 
+  Year 2020 is a leap year.
+  Main Menu 
+  10. leap 
+  11. 2. timeconvert
+  12.  3. 
+  Exit => 1 Enter year: 2100 Year 2100 is not a leap year. Main Menu 1. leap 2. timeconvert 3. Exit =>
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjExMjc2LC0xNDE1NzY0NTQyLDk5Nj
-kwNTY3N119
+eyJoaXN0b3J5IjpbLTEyNTg3NDY2NTksLTE0MTU3NjQ1NDIsOT
+k2OTA1Njc3XX0=
 -->
