@@ -51,6 +51,10 @@ Year 2100 is not a leap year.
  Enter seconds: 20000 
 20000 seconds = 05:33:20
 ```
+****
+**w03**
+ - [Leap year using while loop][leap year(while).cpp](https://github.com/mirrortku/1071-C-programming/blob/master/w03/leap%20year(while).cpp "leap year(while).cpp")
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTEwOTc1N119
+eyJoaXN0b3J5IjpbMjE1ODkzODM4XX0=
 -->
