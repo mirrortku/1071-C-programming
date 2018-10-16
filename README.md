@@ -27,8 +27,22 @@
 ****
 **w02**
 
- - Leap year[2018-09-18-2.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/w02/2018-09-18-2.cpp "2018-09-18-2.cpp")
+ - [Leap year](https://github.com/mirrortku/1071-C-programming/blob/master/w02/2018-09-18-2.cpp "2018-09-18-2.cpp")
+
+```
+Enter year: 2000
+Year 2000 is a leap year.
+
+Enter year: 2018
+Year 2018 is not a leap year.
+
+Enter year: 2020
+Year 2020 is a leap year.
+
+Enter year: 2100
+Year 2100 is not a leap year.
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NDYzNzI4XX0=
+eyJoaXN0b3J5IjpbMjQ5NzA0MzY3XX0=
 -->
