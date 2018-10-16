@@ -194,19 +194,25 @@
   For Vertical Triangle
  ```
   Main Menu 
-  5. Rectangle
-  6.  2. Vertical Triangle
-  7. Tsosceles Triangle 
-  8. 4. Exit 
-  => 2 Enter height, type, filled: 6 1 0
-   * ** * * * * * * ******
-   *  Main Menu
-   *  1. Rectangle 
-   * 2. Vertical Triangle 
-   * 3. Tsosceles Triangle
-   *  4. Exit
-   *  => 2 
-   * Enter height, type, filled: 6 1 1
+  1. Rectangle
+  2. Vertical Triangle
+  3. Tsosceles Triangle 
+  4. Exit 
+  => 2 
+  Enter height, type, filled: 6 1 0
+   * 
+   ** 
+   * *
+   * *
+   *  * 
+   *****
+   Main Menu
+   1. Rectangle 
+   2. Vertical Triangle 
+   3. Tsosceles Triangle
+   4. Exit
+   => 2 
+   Enter height, type, filled: 6 1 1
    *  * ** *** **** ***** ****** 
    Main Menu 
    1. Rectangle 
@@ -216,5 +222,5 @@
    5. =>
   ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQxOTA1NzQsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbODM4MTIyNjgyLDk5NjkwNTY3N119
 -->
