@@ -96,6 +96,9 @@
  Enter n1 n2: -1 -1
 ```
 ****
+  w04
+ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbLTIxMzQxMzIwNzQsOTk2OTA1Njc3XX0=
 -->
