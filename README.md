@@ -28,8 +28,16 @@
  25 / 10 = 2
  25 % 10 = 5
 ```
-- [test2]
-- 
+- [test2](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test2.cpp "test2.cpp")請寫一個迴圈，輸入兩個高度 h1, h2，要能列出由 h1 ~ h2 的 BMI 標準體 重範圍，數字要切齊。
+```
+Enter height (-1 to exit): 170 175
+ 170 cm: 53.5 ~ 69.4 (kg)
+  171 cm: 54.1 ~ 70.2 (kg)
+   172 cm: 54.7 ~ 71.0 (kg)
+    173 cm: 55.4 ~ 71.8 (kg)
+ 174 cm: 56.0 ~ 72.7 (kg) 175 cm: 56.7 ~ 73.5 (kg)
+```
+
 ***
 **w01**
 
@@ -373,7 +381,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTU2MjAyNCwtMTAyODc3NTE0MSwtNj
-g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
-NDU0Miw5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbLTExODAyNjAxMDcsLTEwMjg3NzUxNDEsLT
+Y4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3
+NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
