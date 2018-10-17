@@ -323,9 +323,11 @@ For leap:
  ```
  ****
  w06
+ - [days passed since Jan 1 of specific year](https://github.com/mirrortku/1071-C-programming/blob/master/w06/days.cpp "days.cpp")
+ ```
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzQ3OTA5MCwtNjg2OTQzMjIsMTk1Mz
+eyJoaXN0b3J5IjpbLTE4Mjg3MzEwMCwtNjg2OTQzMjIsMTk1Mz
 QyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2
 NzddfQ==
 -->
