@@ -193,13 +193,13 @@
   ```
   For Vertical Triangle
  ```
-  Main Menu 
-  1. Rectangle
-  2. Vertical Triangle
-  3. Tsosceles Triangle 
-  4. Exit 
-  => 2 
-  Enter height, type, filled: 6 1 0
+   Main Menu 
+   1. Rectangle
+   2. Vertical Triangle
+   3. Tsosceles Triangle 
+   4. Exit 
+   => 2 
+   Enter height, type, filled: 6 1 0
    * 
    ** 
    * *
@@ -343,9 +343,12 @@ For leap:
  ```
  - [sorting an array](https://github.com/mirrortku/1071-C-programming/blob/master/w06/sort.cpp "sort.cpp")
  ```
- 
+ original: 34 78 12 9 87 66 88 99 56 11
+ sorting : 9 11 12 34 56 66 78 87 88 99
+ ```
+ ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MTMxNjAsLTY4Njk0MzIyLDE5NTM0Mj
-I4NDMsLTE4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3
-XX0=
+eyJoaXN0b3J5IjpbLTIxMTY2MjcxMDUsLTY4Njk0MzIyLDE5NT
+M0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1
+Njc3XX0=
 -->
