@@ -2,19 +2,17 @@
 **homework**
 
  -  [[uva100.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva100.cpp "uva100.cpp")]
-```
- Welcome to C Programming
- My name is 404416520
-```
-****
+
 
 **w01**
 
  
 
  - [ 第一個C程式](https://github.com/mirrortku/1071-C-programming/blob/master/w01/2018.9.11-1.cpp "2018.9.11-1.cpp")
-  ```
-  ```
+```
+  Welcome to C Programming
+  My name is 404416520
+```
  - [攝氏華氏溫度轉換](https://github.com/mirrortku/1071-C-programming/blob/master/w01/2018.9.12-2.cpp "2018.9.12-2.cpp")
 ```
   Enter temperature in C: 20.5
@@ -350,7 +348,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NDUxMjkzLC02ODY5NDMyMiwxOTUzND
-IyODQzLC0xODA1ODQyNDUzLC0xNDE1NzY0NTQyLDk5NjkwNTY3
-N119
+eyJoaXN0b3J5IjpbLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NT
+M0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1
+Njc3XX0=
 -->
