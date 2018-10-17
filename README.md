@@ -11,7 +11,10 @@
 900  1000
 900  1000  174
 ```
-- 
+- [uva488](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva488.cpp "uva488.cpp")
+```
+
+```
 
 
 
@@ -420,7 +423,7 @@ For leap:
  ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwOTE4MTMsLTEwMjg3NzUxNDEsLTY4Nj
-k0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3NjQ1
-NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbMTI1NjY4NTkyMCw5NTA5MTgxMywtMTAyOD
+c3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1
+MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ==
 -->
