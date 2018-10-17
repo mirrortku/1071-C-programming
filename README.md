@@ -44,13 +44,16 @@ Bye! Coding by your_ID
 - [test3](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test3.cpp "test3.cpp") 輸入高度，畫出 2 個直角三角形
 ```
 Enter height (-1 to exit): 5
- * *
- ** **
- *** ***
- **** ****
+     * *
+    ** **
+   *** ***
+  **** ****
  ***** ***** 
-Enter height (-1 to exit): -1 Bye! coding by yourID
+ 
+Enter height (-1 to exit): -1 
+Bye! coding by yourID
 ```
+- [test4]
 ***
 **w01**
 
@@ -394,7 +397,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDUwOTU2MCwtMTAyODc3NTE0MSwtNj
-g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
-NDU0Miw5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbLTExMzg0MDE5NjksLTEwMjg3NzUxNDEsLT
+Y4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3
+NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
