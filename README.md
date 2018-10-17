@@ -13,6 +13,8 @@
  
 
  - [ 第一個C程式](https://github.com/mirrortku/1071-C-programming/blob/master/w01/2018.9.11-1.cpp "2018.9.11-1.cpp")
+  ```
+  ```
  - [攝氏華氏溫度轉換](https://github.com/mirrortku/1071-C-programming/blob/master/w01/2018.9.12-2.cpp "2018.9.12-2.cpp")
 ```
   Enter temperature in C: 20.5
@@ -79,9 +81,9 @@
 ```
  - [BMI using while](https://github.com/mirrortku/1071-C-programming/blob/master/w03/BMI%E8%A8%88%E7%AE%97.cpp "BMI計算.cpp")
 ```
-身高(m):1.55
-體重(kg):52
-正常範圍
+ 身高(m):1.55
+ 體重(kg):52
+ 正常範圍
 ```
  - [sum(n1,n2)](https://github.com/mirrortku/1071-C-programming/blob/master/w03/sum(n1%2Cn2).cpp "sum(n1,n2).cpp")
 ```
@@ -101,21 +103,21 @@
  
 
  ```
- Main Menu 
- 1. Rectangle 
- 2. Vertical Triangle 
- 3. Exit => 1 
- Enter height and width: 5 8 
- ******** 
- *      *
- *      * 
- *      * 
- ******** 
- Main Menu 
- 4. Rectangle 
- 5. Vertical Triangle
- 6.  3. Exit => 2
- 7.  Enter height and type: 5 1
+  Main Menu 
+  1. Rectangle 
+  2. Vertical Triangle 
+  3. Exit => 1 
+  Enter height and width: 5 8 
+  ******** 
+  *      *
+  *      * 
+  *      * 
+  ******** 
+  Main Menu 
+  4. Rectangle 
+  5. Vertical Triangle
+  6.  3. Exit => 2
+  7.  Enter height and type: 5 1
   * 
   ** 
   * * 
@@ -151,7 +153,7 @@
   * * 
   ** 
   *  
-   Main Menu 
+  Main Menu 
   1. Rectangle 
   2. Vertical  Triangle 
   3. Exit => 3
@@ -174,10 +176,10 @@
    *      * 
    ******** 
    Main Menu 
-  1. Rectangle 
-  2. Vertical Triangle 
-  3. Tsosceles Triangle 
-  4. Exit
+   1. Rectangle 
+   2. Vertical Triangle 
+   3. Tsosceles Triangle 
+   4. Exit
    => 1 Enter height, width, filled: 5 8 1 
    ******** 
    ******** 
@@ -348,7 +350,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY2MjcxMDUsLTY4Njk0MzIyLDE5NT
-M0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1
-Njc3XX0=
+eyJoaXN0b3J5IjpbNTM0NDUxMjkzLC02ODY5NDMyMiwxOTUzND
+IyODQzLC0xODA1ODQyNDUzLC0xNDE1NzY0NTQyLDk5NjkwNTY3
+N119
 -->
