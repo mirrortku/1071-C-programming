@@ -63,8 +63,19 @@ encode(8391) = 9133
 decode(9133) = 8391
 
 Enter N (-1 to exit): -1
- Bye! coding by yourID
+Bye! coding by yourID
 ```
+- [test5][text5.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/text5.cpp "text5.cpp") 寫一個選單，共有 5 個選項如下，前 3 個選項分別對應到前 3 題，第 4, 5 個選 項對應到第 4 題。
+```
+(1) Arithmetic Computation
+(2) List BMI ranges 
+(3) Draw Four Vertical Triangles 
+(4) encode(n) 
+(5) decode(n) 
+(6) Exit
+```
+
+
 ***
 **w01**
 
@@ -408,7 +419,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjgyMjk1OCwtMTAyODc3NTE0MSwtNj
+eyJoaXN0b3J5IjpbLTcxNzc4ODk5MiwtMTAyODc3NTE0MSwtNj
 g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
 NDU0Miw5OTY5MDU2NzddfQ==
 -->
