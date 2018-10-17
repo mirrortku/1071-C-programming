@@ -37,8 +37,11 @@ Enter height (-1 to exit): 170 175
 173 cm: 55.4 ~ 71.8 (kg)
 174 cm: 56.0 ~ 72.7 (kg)
 175 cm: 56.7 ~ 73.5 (kg)
+
+Enter height (-1 to exit): -1 -1
+Bye! Coding by your_ID
 ```
-- [test3]
+- [test3][test3.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test3.cpp "test3.cpp")
 
 ***
 **w01**
@@ -383,7 +386,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjg2MzUyNSwtMTAyODc3NTE0MSwtNj
-g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
-NDU0Miw5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbLTIzMTQzNTE5LC0xMDI4Nzc1MTQxLC02OD
+Y5NDMyMiwxOTUzNDIyODQzLC0xODA1ODQyNDUzLC0xNDE1NzY0
+NTQyLDk5NjkwNTY3N119
 -->
