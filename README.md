@@ -53,7 +53,18 @@ Enter height (-1 to exit): 5
 Enter height (-1 to exit): -1 
 Bye! coding by yourID
 ```
-- [test4]
+- [test4](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test4.cpp "test4.cpp") 寫 2 個 function, encode(n) 能夠將一個四位數的整數 n 編碼，decode(n) 能夠將之解碼。編碼規則如下：千位數加 5 取餘數後和十位數對調，百位數和個位數 對調。
+```
+Enter N (-1 to exit): 1234
+encode(1234) = 3462
+decode(3462) = 1234
+Enter N (-1 to exit): 8391
+encode(8391) = 9133
+decode(9133) = 8391
+
+Enter N (-1 to exit): -1
+ Bye! coding by yourID
+```
 ***
 **w01**
 
@@ -397,7 +408,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg0MDE5NjksLTEwMjg3NzUxNDEsLT
-Y4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3
-NjQ1NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbMjA4MjgyMjk1OCwtMTAyODc3NTE0MSwtNj
+g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
+NDU0Miw5OTY5MDU2NzddfQ==
 -->
