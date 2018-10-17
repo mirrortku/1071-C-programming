@@ -1,6 +1,6 @@
 # 1071-C-programming
 **homework**
-
+-
  -  [[uva100.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva100.cpp "uva100.cpp")]
 ```
 1  10
@@ -12,6 +12,15 @@
 900  1000
 900  1000  174
 ```
+- 
+
+
+
+
+***
+**first_test**
+
+- 
 
 ***
 **w01**
@@ -358,7 +367,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjUwODkwMiwtMTAyODc3NTE0MSwtNj
+eyJoaXN0b3J5IjpbMTc4OTAyNzM5NiwtMTAyODc3NTE0MSwtNj
 g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
 NDU0Miw5OTY5MDU2NzddfQ==
 -->
