@@ -1,6 +1,5 @@
 # 1071-C-programming
 **homework**
--
  -  [[uva100.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva100.cpp "uva100.cpp")]
 ```
 1  10
@@ -20,12 +19,12 @@
 ***
 **first_test**
 
-- 
+- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test1.cpp "test1.cpp")
+```
 
+```
 ***
 **w01**
-
- 
 
  - [ 第一個C程式](https://github.com/mirrortku/1071-C-programming/blob/master/w01/2018.9.11-1.cpp "2018.9.11-1.cpp")
 ```
@@ -367,7 +366,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTAyNzM5NiwtMTAyODc3NTE0MSwtNj
-g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
-NDU0Miw5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbNjE2MTQ5ODAsLTEwMjg3NzUxNDEsLTY4Nj
+k0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3NjQ1
+NDIsOTk2OTA1Njc3XX0=
 -->
