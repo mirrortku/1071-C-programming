@@ -1,6 +1,6 @@
 # 1071-C-programming
 **homework**
- -  [[uva100.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva100.cpp "uva100.cpp")]
+ -  [[uva100](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva100.cpp "uva100.cpp")]
 ```
 1  10
 1  10  20
@@ -13,9 +13,22 @@
 ```
 - [uva488](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva488.cpp "uva488.cpp")
 ```
+1
+3
+2
+1
+22
+333
+22
+1
 
+1
+22
+333
+22
+1
 ```
-
+- [uva913]
 
 
 
@@ -423,7 +436,7 @@ For leap:
  ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjY4NTkyMCw5NTA5MTgxMywtMTAyOD
-c3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1
-MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbLTE1MzI3MjY2NzcsOTUwOTE4MTMsLTEwMj
+g3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0
+NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
