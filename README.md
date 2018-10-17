@@ -19,7 +19,7 @@
 ***
 **first_test**
 
-- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test1.cpp "test1.cpp")
+- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test1.cpp "test1.cpp")輸入兩個整數，請列出加、減、乘、除、%(取餘數)的運算。
 ```
 
 ```
@@ -366,7 +366,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MTQ5ODAsLTEwMjg3NzUxNDEsLTY4Nj
-k0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3NjQ1
-NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbLTEzNDQ4NjkyOTgsLTEwMjg3NzUxNDEsLT
+Y4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3
+NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
