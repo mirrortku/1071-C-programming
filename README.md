@@ -325,9 +325,23 @@ For leap:
  w06
  - [days passed since Jan 1 of specific year](https://github.com/mirrortku/1071-C-programming/blob/master/w06/days.cpp "days.cpp")
  ```
- 
+ Enter year:
+  2018 Enter month and day: 10 16 
+  289 days passed since 1/1/2018
+    Continue (Y/N)? y
+ Enter year: 2020
+Enter month and day: 3 1 
+61 days passed since 1/1/2020
+Continue (Y/N)? y 
+Enter year: 2100 
+Enter month and day: 3 1 
+60 days passed since 1/1/2100
+Continue (Y/N)? n 
+
+Process returned 0 (0x0) execution time : 57.581 s 
+Press any key to continue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg3MzEwMCwtNjg2OTQzMjIsMTk1Mz
+eyJoaXN0b3J5IjpbMTM0NDY4NzkwMSwtNjg2OTQzMjIsMTk1Mz
 QyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2
 NzddfQ==
 -->
