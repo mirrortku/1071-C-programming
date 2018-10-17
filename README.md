@@ -302,8 +302,30 @@ For leap:
  ```
  For timeconvert
  ```
+  Main Menu 
+  1. leap
+  2. timeconvert
+  3. Exit
+  => 2 
+  Enter hh:mm:ss 10:10:10
+  10:10:10 = 36610 seconds
+  Main Menu
+  1. leap
+  2. timeconvert
+  3. Exit 
+  => 2 
+  Enter hh:mm:ss 0:30:10 
+  00:30:10 = 1810 seconds 
+  Main Menu
+ 1. leap
+ 2. timeconvert
+ 3. Exit =>
+ ```
+ ****
+ w06
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MD
-U4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbMTQ3MzQ3OTA5MCwtNjg2OTQzMjIsMTk1Mz
+QyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2
+NzddfQ==
 -->
