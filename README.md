@@ -21,8 +21,15 @@
 
 - [test1](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test1.cpp "test1.cpp")輸入兩個整數，請列出加、減、乘、除、%(取餘數)的運算。
 ```
-
+ Enter two integers: 25 10
+ 25 + 10 = 35
+ 25–10 = 15
+ 25 * 10 = 250
+ 25 / 10 = 2
+ 25 % 10 = 5
 ```
+- [test2]
+- 
 ***
 **w01**
 
@@ -366,7 +373,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ4NjkyOTgsLTEwMjg3NzUxNDEsLT
-Y4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3
-NjQ1NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbMjAyMTU2MjAyNCwtMTAyODc3NTE0MSwtNj
+g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
+NDU0Miw5OTY5MDU2NzddfQ==
 -->
