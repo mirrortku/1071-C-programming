@@ -19,7 +19,7 @@
 ***
 **first_test**
 
-- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test1.cpp "test1.cpp")輸入兩個整數，請列出加、減、乘、除、%(取餘數)的運算。
+- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test1.cpp "test1.cpp") 輸入兩個整數，請列出加、減、乘、除、%(取餘數)的運算。
 ```
  Enter two integers: 25 10
  25 + 10 = 35
@@ -28,7 +28,7 @@
  25 / 10 = 2
  25 % 10 = 5
 ```
-- [test2](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test2.cpp "test2.cpp")請寫一個迴圈，輸入兩個高度 h1, h2，要能列出由 h1 ~ h2 的 BMI 標準體 重範圍，數字要切齊。
+- [test2](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test2.cpp "test2.cpp") 請寫一個迴圈，輸入兩個高度 h1, h2，要能列出由 h1 ~ h2 的 BMI 標準體 重範圍，數字要切齊。
 ```
 Enter height (-1 to exit): 170 175
 170 cm: 53.5 ~ 69.4 (kg)
@@ -41,8 +41,16 @@ Enter height (-1 to exit): 170 175
 Enter height (-1 to exit): -1 -1
 Bye! Coding by your_ID
 ```
-- [test3][test3.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test3.cpp "test3.cpp")
-
+- [test3](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test3.cpp "test3.cpp") 輸入高度，畫出 2 個直角三角形
+```
+Enter height (-1 to exit): 5
+ * *
+ ** **
+ *** ***
+ **** ****
+ ***** ***** 
+Enter height (-1 to exit): -1 Bye! coding by yourID
+```
 ***
 **w01**
 
@@ -386,7 +394,7 @@ For leap:
  ```
  ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTQzNTE5LC0xMDI4Nzc1MTQxLC02OD
-Y5NDMyMiwxOTUzNDIyODQzLC0xODA1ODQyNDUzLC0xNDE1NzY0
-NTQyLDk5NjkwNTY3N119
+eyJoaXN0b3J5IjpbLTQ4NDUwOTU2MCwtMTAyODc3NTE0MSwtNj
+g2OTQzMjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2
+NDU0Miw5OTY5MDU2NzddfQ==
 -->
