@@ -464,11 +464,22 @@ fib(3) = 2
 fib(9) = 55
 fib(30) = 832040
 ```
+[gcd](https://github.com/mirrortku/1071-C-programming/blob/master/w07/gcd.cpp "gcd.cpp")
+```
+rgcd(48,126) = 6 gcd(48,126) = 6
+rgcd(48,128) = 16 gcd(48,128) = 16
+rgcd(48,144) = 48 gcd(48,144) = 48
+rgcd(48,48) = 48 gcd(48,48) = 48
+```
+[tower](https://github.com/mirrortku/1071-C-programming/blob/master/w07/tower.cpp "tower.cpp")
+```
+
+```
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzcwMjIwNCwtMTUzMjcyNjY3Nyw5NT
-A5MTgxMywtMTAyODc3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0
-MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ
-==
+eyJoaXN0b3J5IjpbMTkwMDQxNTk2NSwtODgzNzAyMjA0LC0xNT
+MyNzI2Njc3LDk1MDkxODEzLC0xMDI4Nzc1MTQxLC02ODY5NDMy
+MiwxOTUzNDIyODQzLC0xODA1ODQyNDUzLC0xNDE1NzY0NTQyLD
+k5NjkwNTY3N119
 -->
