@@ -409,7 +409,7 @@ For leap:
  3. Exit =>
  ```
  ****
- w06
+ **w06**
  - [days passed since Jan 1 of specific year](https://github.com/mirrortku/1071-C-programming/blob/master/w06/days.cpp "days.cpp")
  ```
  Enter year:
@@ -434,9 +434,13 @@ For leap:
  sorting : 9 11 12 34 56 66 78 87 88 99
  ```
  ****
+ **w07**
+ [sum recursive](https://github.com/mirrortku/1071-C-programming/blob/master/w07/sum().cpp "sum().cpp")
+ ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI3MjY2NzcsOTUwOTE4MTMsLTEwMj
-g3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0
-NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbMTkyMTExNTQ1NywtMTUzMjcyNjY3Nyw5NT
+A5MTgxMywtMTAyODc3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0
+MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ
+==
 -->
