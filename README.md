@@ -454,12 +454,13 @@ For leap:
  [oddsum recursive](https://github.com/mirrortku/1071-C-programming/blob/master/w07/oddsum.cpp "oddsum.cpp")
  ```
  Enter n: 9
-  sumodd1(9) = 81; sumodd2(9) = 25;
+ sumodd1(9) = 81;
+ sumodd2(9) = 25;
  ```
+ ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Nzk5MzQwMywtMTUzMjcyNjY3Nyw5NT
-A5MTgxMywtMTAyODc3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0
-MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ
-==
+eyJoaXN0b3J5IjpbMzY3MTA1NjEzLC0xNTMyNzI2Njc3LDk1MD
+kxODEzLC0xMDI4Nzc1MTQxLC02ODY5NDMyMiwxOTUzNDIyODQz
+LC0xODA1ODQyNDUzLC0xNDE1NzY0NTQyLDk5NjkwNTY3N119
 -->
