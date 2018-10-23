@@ -457,10 +457,18 @@ For leap:
  sumodd1(9) = 81;
  sumodd2(9) = 25;
  ```
- ****
+ 
+[fib](https://github.com/mirrortku/1071-C-programming/blob/master/w07/fib.cpp "fib.cpp") 
+```
+fib(3) = 2
+fib(9) = 55
+fib(30) = 832040
+```
+****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MTA1NjEzLC0xNTMyNzI2Njc3LDk1MD
-kxODEzLC0xMDI4Nzc1MTQxLC02ODY5NDMyMiwxOTUzNDIyODQz
-LC0xODA1ODQyNDUzLC0xNDE1NzY0NTQyLDk5NjkwNTY3N119
+eyJoaXN0b3J5IjpbLTg4MzcwMjIwNCwtMTUzMjcyNjY3Nyw5NT
+A5MTgxMywtMTAyODc3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0
+MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ
+==
 -->
