@@ -473,13 +473,60 @@ rgcd(48,48) = 48 gcd(48,48) = 48
 ```
 [tower](https://github.com/mirrortku/1071-C-programming/blob/master/w07/tower.cpp "tower.cpp")
 ```
-
+tower1(n,from,aux,to)
+A -> C 
+A -> B
+C -> B 
+A -> C 
+B -> A 
+B -> C 
+A -> C 
+tower2(n,to,aux,from) 
+C -> A 
+C -> B 
+A -> B 
+C -> A 
+B -> C 
+B -> A 
+C -> A 
+tower3(n,from,to,aux) 
+A -> B 
+A -> C 
+B -> C 
+A -> B 
+C -> A 
+C -> B 
+A -> B 
+tower4(n,to,from,aux) 
+B -> A 
+B -> C 
+A -> C 
+B -> A 
+C -> B 
+C -> A 
+B -> A 
+tower5(n,aux,from,to) 
+B -> C 
+B -> A 
+C -> A 
+B -> C 
+A -> B 
+A -> C 
+B -> C 
+tower6(n,aux,to,from) 
+C -> B 
+C -> A 
+B -> A 
+C -> B 
+A -> C 
+A -> B 
+C -> B
 ```
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDQxNTk2NSwtODgzNzAyMjA0LC0xNT
-MyNzI2Njc3LDk1MDkxODEzLC0xMDI4Nzc1MTQxLC02ODY5NDMy
-MiwxOTUzNDIyODQzLC0xODA1ODQyNDUzLC0xNDE1NzY0NTQyLD
-k5NjkwNTY3N119
+eyJoaXN0b3J5IjpbLTE0MDQ0ODQ2MDgsLTg4MzcwMjIwNCwtMT
+UzMjcyNjY3Nyw5NTA5MTgxMywtMTAyODc3NTE0MSwtNjg2OTQz
+MjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Mi
+w5OTY5MDU2NzddfQ==
 -->
