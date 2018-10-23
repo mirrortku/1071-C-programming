@@ -436,10 +436,29 @@ For leap:
  ****
  **w07**
  [sum recursive](https://github.com/mirrortku/1071-C-programming/blob/master/w07/sum().cpp "sum().cpp")
- ****
+ ```
+ Enter n: 10
+ sum(10)=55
+ 10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+ rsum(10)=55
+ ```
+ [oddsum recursive](https://github.com/mirrortku/1071-C-programming/blob/master/w07/oddsum.cpp "oddsum.cpp")
+ ```
+ Enter n: 9
+  sumodd1(9) = 81; sumodd2(9) = 25;
+ ```
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTExNTQ1NywtMTUzMjcyNjY3Nyw5NT
+eyJoaXN0b3J5IjpbMTA3Nzk5MzQwMywtMTUzMjcyNjY3Nyw5NT
 A5MTgxMywtMTAyODc3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0
 MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ
 ==
