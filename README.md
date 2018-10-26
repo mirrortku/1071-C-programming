@@ -28,7 +28,10 @@
 22
 1
 ```
-- [uva913]
+- [uva913](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva913.cpp "uva913.cpp")
+```
+
+```
 
 
 
@@ -525,8 +528,8 @@ C -> B
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ0ODQ2MDgsLTg4MzcwMjIwNCwtMT
-UzMjcyNjY3Nyw5NTA5MTgxMywtMTAyODc3NTE0MSwtNjg2OTQz
-MjIsMTk1MzQyMjg0MywtMTgwNTg0MjQ1MywtMTQxNTc2NDU0Mi
-w5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbODc0MDc5MTgxLC0xNDA0NDg0NjA4LC04OD
+M3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4MTMsLTEwMjg3NzUx
+NDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLT
+E0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
