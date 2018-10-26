@@ -30,10 +30,26 @@
 ```
 - [uva913](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva913.cpp "uva913.cpp")
 ```
-
+3
+15
+5
+45
+7
+87
+```
+[uva10055](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva10055.cpp "uva10055.cpp")
+```
+10 12
+2
+14 10
+4
+100 200
+100
+```
+[uva10071](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva10071.cpp "uva10071.cpp")
 ```
 
-
+```
 
 ***
 **first_test**
@@ -528,8 +544,8 @@ C -> B
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MDc5MTgxLC0xNDA0NDg0NjA4LC04OD
-M3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4MTMsLTEwMjg3NzUx
-NDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLT
-E0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbMjEzOTQ1NDQwOCwtMTQwNDQ4NDYwOCwtOD
+gzNzAyMjA0LC0xNTMyNzI2Njc3LDk1MDkxODEzLC0xMDI4Nzc1
+MTQxLC02ODY5NDMyMiwxOTUzNDIyODQzLC0xODA1ODQyNDUzLC
+0xNDE1NzY0NTQyLDk5NjkwNTY3N119
 -->
