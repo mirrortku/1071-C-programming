@@ -196,23 +196,35 @@ Average = 73.7
 Coding by your_ID_name
 ```
 - [test5](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test5.cpp "test5.cpp")
-a.drawRect(h,w):傳入長度與寬度，畫出長方形用for迴圈
+a. drawRect(h,w):傳入長度與寬度，畫出長方形用for迴圈(迭代法iteration)
+b. rdrawRect(h,w):畫出長方形用遞迴
+```
+Enter height:4
+Enter width:7
+Draw using iteration
 
-(
+*******
+*******
+*******
+*******
 
-迭代法
+Draw using recurs
+ion
 
-iteration)
+*******
 
-b.
+// draw rectangle by calling rdrawR
 
-r
+ect(4,7)
 
-drawRect(h,w):
+*******
 
-畫出長方形用
+*******
 
-遞迴
+*******
+
+Coding by your_ID_name
+```
 ***
 **w01**
 
@@ -666,7 +678,7 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjA5NTQ0NCwyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbMTYyMTU1NDA5OSwyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
