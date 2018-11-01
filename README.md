@@ -138,8 +138,48 @@ Coding by your_ID_name
 ```
 - [test2](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test2.cpp "test2.cpp")
 a.function findPrimes(data,n1,n2)，其中data是一維陣列，n1<=n2。用來記錄所有n1~n2的所有質數，該function會回傳有多少個質數。
-b.stats(data,occurrences),其中data[MAX],occurrences都是
-維陣列，occurrences[10]會記錄最後數字出現的頻率，回傳值是occurrences[10]次數最高的值
+b.stats(data,occurrences),其中data[MAX],occurrences都是一維陣列，occurrences[10]會記錄最後數字出現的頻率，回傳值是occurrences[10]次數最高的值
+```
+Enter n1 and n2: 5 70
+
+1
+
+6 primes between 5 and 70. //
+
+要呼叫
+
+findPrimes(data,5,70)
+
+，回傳值為
+
+16
+
+7 11 13 17 19 23 29 31 37 41
+
+43 47 53 59 61 67
+
+Statistics:
+
+//
+
+下一行要呼叫stats(data,occurrences)，回傳值是出現次數最多的數字。以7，因為出現次數最多
+
+Last digit 7 has the most frequent 5 occurre
+
+nces between 5 to 70.
+
+[1]=4, [11,31,41,61]
+
+[3]=4, [13,23,43,53]
+
+[7]=5, [07,127,37,47,67]
+
+[9]=3, [19,29,59]
+
+Continue (Y/N)? N
+
+Coding by your_ID_name
+```
 
 - [test3](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test3.cpp "test3.cpp")
 - [test4](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test4.cpp "test4.cpp")
@@ -597,8 +637,8 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mjc0Nzc1OCwyMTM5NDU0NDA4LC0xND
-A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
-MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
-E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbLTExMzI0NjAyNTgsMjEzOTQ1NDQwOCwtMT
+QwNDQ4NDYwOCwtODgzNzAyMjA0LC0xNTMyNzI2Njc3LDk1MDkx
+ODEzLC0xMDI4Nzc1MTQxLC02ODY5NDMyMiwxOTUzNDIyODQzLC
+0xODA1ODQyNDUzLC0xNDE1NzY0NTQyLDk5NjkwNTY3N119
 -->
