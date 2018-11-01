@@ -105,7 +105,7 @@ decode(9133) = 8391
 Enter N (-1 to exit): -1
 Bye! coding by yourID
 ```
-- [tes[text5](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/text5.cpp "text5.cpp")
+- [text5](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/text5.cpp "text5.cpp")
  寫一個選單，共有 5 個選項如下，前 3 個選項分別對應到前 3 題，第 4, 5 個選 項對應到第 4 題。
 ```
 (1) Arithmetic Computation
@@ -209,7 +209,8 @@ Bye! coding by yourID
 ```
 ****
 **w04**
- - [< 選單 >](https://github.com/mirrortku/1071-C-programming/blob/master/w04/.cpp ".cpp") 畫長方形及四種直角三角形，全部沒有填滿
+ - [< 選單 >](https://github.com/mirrortku/1071-C-programming/blob/master/w04/.cpp ".cpp") 
+ 畫長方形及四種直角三角形，全部沒有填滿
  
 
  ```
@@ -268,7 +269,8 @@ Bye! coding by yourID
   2. Vertical  Triangle 
   3. Exit => 3
  ```
-  -[<選單2>](https://github.com/mirrortku/1071-C-programming/blob/master/w04/menu2.cpp "menu2.cpp")畫長方形、各種直角三角形等腰三角形，有實心和空心
+  -[<選單2>](https://github.com/mirrortku/1071-C-programming/blob/master/w04/menu2.cpp "menu2.cpp")
+  畫長方形、各種直角三角形等腰三角形，有實心和空心
  
  For Rectangle
   ```
@@ -374,7 +376,8 @@ Bye! coding by yourID
   ```
 ****
 **w05**
-  - [<選單>](https://github.com/mirrortku/1071-C-programming/blob/master/w05/%E9%81%B8%E5%96%AE(1).cpp "選單(1).cpp")leap, timeconvert, add two more functions into menu
+  - [<選單>](https://github.com/mirrortku/1071-C-programming/blob/master/w05/%E9%81%B8%E5%96%AE(1).cpp "選單(1).cpp")
+  leap, timeconvert, add two more functions into menu
 For leap:
  ```
  Main Menu
@@ -547,10 +550,15 @@ A -> C
 A -> B 
 C -> B
 ```
+**w08**
+- [magic](https://github.com/mirrortku/1071-C-programming/blob/master/w08/magic.cpp "magic.cpp")
+```
+
+```
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDcxOTI5OCwyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbLTI4NjE1MDkxMiwyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
