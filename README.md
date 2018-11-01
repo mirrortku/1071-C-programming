@@ -179,37 +179,40 @@ Enter a series of scores between0~100(-1 to exit).
 
 Scores listing:
 95 77 88 42 52 75 87 77 65 79 
+
 The summary:
 NumberCount = 10 
-輸入多少個成績
 FailedCount = 2 
 PassCount = 8 
 Average = 73.7
-100 0 //
 
-成績100分之筆數
-
-90~99 1 * //
-
-成績落於
-
-90~99
-
-之筆數
-
+100   0 
+90~99 1 * 
 80~89 2 **
-
 70~79 4 ****
-
 60~69 1 *
-
-0
-
-~59 2 **
+0~59 2 **
 
 Coding by your_ID_name
 ```
 - [test5](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test5.cpp "test5.cpp")
+a.drawRect(h,w):傳入長度與寬度，畫出長方形用for迴圈
+
+(
+
+迭代法
+
+iteration)
+
+b.
+
+r
+
+drawRect(h,w):
+
+畫出長方形用
+
+遞迴
 ***
 **w01**
 
@@ -663,7 +666,7 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzE4MjY4NywyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbLTQyNjA5NTQ0NCwyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
