@@ -151,6 +151,16 @@ Coding by your_ID_name
 ```
 
 - [test3](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test3.cpp "test3.cpp")
+判斷是否有正整數平方根
+```
+Enter N:25
+Yes. 25 = 5 x 5
+Continue (Y/N):y
+Enter N:30
+No.
+Continue (Y/N):n
+Coding by your_ID_name
+```
 - [test4](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test4.cpp "test4.cpp")
 - [test5](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test5.cpp "test5.cpp")
 ***
@@ -606,7 +616,7 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTQ2Mjg5NCwyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbMTI4MzU4NzgxNiwyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
