@@ -117,21 +117,27 @@ Bye! coding by yourID
 ```
 ***
 **second_test**
-- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test1.cpp "test1.cpp")寫一個functionprime(n)用來判斷整數n
-是否為質數，假設
+- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test1.cpp "test1.cpp")
+寫一個functionprime(n)用來判斷整數n是否為質數，假設n>=2。所有輸入輸出寫在main()中。
+```
+Enter N: 23
 
-n>=2
+23 is a prime.
 
-。所
+Continue
 
-有輸入輸出寫在
+(Y/N)? Y
 
-mai
+Enter N: 21
 
-n()
+21 is not a prime.
 
-中。
+Continue (Y/N)? N
+
+Coding by your_ID_name
+```
 - [test2](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test2.cpp "test2.cpp")
+
 - [test3](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test3.cpp "test3.cpp")
 - [test4](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test4.cpp "test4.cpp")
 - [test5](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test5.cpp "test5.cpp")
@@ -588,7 +594,7 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTA4MjQ4NCwyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbMTc4NTUyMjc4MCwyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
