@@ -48,13 +48,15 @@
 ```
 [uva10071](https://github.com/mirrortku/1071-C-programming/blob/master/homework/uva10071.cpp "uva10071.cpp")
 ```
-
+60 2
+120
 ```
 
 ***
 **first_test**
 
-- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test1.cpp "test1.cpp") 輸入兩個整數，請列出加、減、乘、除、%(取餘數)的運算。
+- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test1.cpp "test1.cpp") 
+輸入兩個整數，請列出加、減、乘、除、%(取餘數)的運算。
 ```
  Enter two integers: 25 10
  25 + 10 = 35
@@ -63,7 +65,8 @@
  25 / 10 = 2
  25 % 10 = 5
 ```
-- [test2](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test2.cpp "test2.cpp") 請寫一個迴圈，輸入兩個高度 h1, h2，要能列出由 h1 ~ h2 的 BMI 標準體 重範圍，數字要切齊。
+- [test2](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test2.cpp "test2.cpp")
+ 請寫一個迴圈，輸入兩個高度 h1, h2，要能列出由 h1 ~ h2 的 BMI 標準體 重範圍，數字要切齊。
 ```
 Enter height (-1 to exit): 170 175
 170 cm: 53.5 ~ 69.4 (kg)
@@ -76,7 +79,8 @@ Enter height (-1 to exit): 170 175
 Enter height (-1 to exit): -1 -1
 Bye! Coding by your_ID
 ```
-- [test3](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test3.cpp "test3.cpp") 輸入高度，畫出 2 個直角三角形
+- [test3](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test3.cpp "test3.cpp") 
+輸入高度，畫出 2 個直角三角形
 ```
 Enter height (-1 to exit): 5
      * *
@@ -88,7 +92,8 @@ Enter height (-1 to exit): 5
 Enter height (-1 to exit): -1 
 Bye! coding by yourID
 ```
-- [test4](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test4.cpp "test4.cpp") 寫 2 個 function, encode(n) 能夠將一個四位數的整數 n 編碼，decode(n) 能夠將之解碼。編碼規則如下：千位數加 5 取餘數後和十位數對調，百位數和個位數 對調。
+- [test4](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/test4.cpp "test4.cpp") 
+寫 2 個 function, encode(n) 能夠將一個四位數的整數 n 編碼，decode(n) 能夠將之解碼。編碼規則如下：千位數加 5 取餘數後和十位數對調，百位數和個位數 對調。
 ```
 Enter N (-1 to exit): 1234
 encode(1234) = 3462
@@ -100,7 +105,8 @@ decode(9133) = 8391
 Enter N (-1 to exit): -1
 Bye! coding by yourID
 ```
-- [test5][text5.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/text5.cpp "text5.cpp") 寫一個選單，共有 5 個選項如下，前 3 個選項分別對應到前 3 題，第 4, 5 個選 項對應到第 4 題。
+- [tes[text5](https://github.com/mirrortku/1071-C-programming/blob/master/first_test/text5.cpp "text5.cpp")
+ 寫一個選單，共有 5 個選項如下，前 3 個選項分別對應到前 3 題，第 4, 5 個選 項對應到第 4 題。
 ```
 (1) Arithmetic Computation
 (2) List BMI ranges 
@@ -544,8 +550,8 @@ C -> B
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTQ1NDQwOCwtMTQwNDQ4NDYwOCwtOD
-gzNzAyMjA0LC0xNTMyNzI2Njc3LDk1MDkxODEzLC0xMDI4Nzc1
-MTQxLC02ODY5NDMyMiwxOTUzNDIyODQzLC0xODA1ODQyNDUzLC
-0xNDE1NzY0NTQyLDk5NjkwNTY3N119
+eyJoaXN0b3J5IjpbLTc3MDcxOTI5OCwyMTM5NDU0NDA4LC0xND
+A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
+MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
+E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
