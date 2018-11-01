@@ -137,6 +137,9 @@ Continue (Y/N)? N
 Coding by your_ID_name
 ```
 - [test2](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test2.cpp "test2.cpp")
+a.function findPrimes(data,n1,n2)，其中data是一維陣列，n1<=n2。用來記錄所有n1~n2的所有質數，該function會回傳有多少個質數。
+b.stats(data,occurrences),其中data[MAX],occurrences都是
+維陣列，occurrences[10]會記錄最後數字出現的頻率，回傳值是occurrences[10]次數最高的值
 
 - [test3](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test3.cpp "test3.cpp")
 - [test4](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test4.cpp "test4.cpp")
@@ -594,7 +597,7 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTUyMjc4MCwyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbMTA2Mjc0Nzc1OCwyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
