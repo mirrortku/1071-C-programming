@@ -115,7 +115,9 @@ Bye! coding by yourID
 (5) decode(n) 
 (6) Exit
 ```
-
+***
+**second_test**
+[test1.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test1.cpp "test1.cpp")
 
 ***
 **w01**
@@ -562,16 +564,16 @@ Diagonal Move
  
 Knight Move 
  17   6  25  14   3 
- 11  5 19  8  22 
- 10 24 13  2 16 
- 4  18  7 21 15 
- 23 12  1 20  9
+ 11   5  19   8  22 
+ 10  24  13   2  16 
+ 4   18   7  21  15 
+ 23  12   1  20   9
 ```
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgyMjk3OCwyMTM5NDU0NDA4LC0xND
-A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
-MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
-E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbLTY3NjU1MzAxLDIxMzk0NTQ0MDgsLTE0MD
+Q0ODQ2MDgsLTg4MzcwMjIwNCwtMTUzMjcyNjY3Nyw5NTA5MTgx
+MywtMTAyODc3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0MywtMT
+gwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ==
 -->
