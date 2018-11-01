@@ -117,8 +117,24 @@ Bye! coding by yourID
 ```
 ***
 **second_test**
-[test1.cpp](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test1.cpp "test1.cpp")
+- [test1](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test1.cpp "test1.cpp")寫一個functionprime(n)用來判斷整數n
+是否為質數，假設
 
+n>=2
+
+。所
+
+有輸入輸出寫在
+
+mai
+
+n()
+
+中。
+- [test2](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test2.cpp "test2.cpp")
+- [test3](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test3.cpp "test3.cpp")
+- [test4](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test4.cpp "test4.cpp")
+- [test5](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test5.cpp "test5.cpp")
 ***
 **w01**
 
@@ -572,8 +588,8 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjU1MzAxLDIxMzk0NTQ0MDgsLTE0MD
-Q0ODQ2MDgsLTg4MzcwMjIwNCwtMTUzMjcyNjY3Nyw5NTA5MTgx
-MywtMTAyODc3NTE0MSwtNjg2OTQzMjIsMTk1MzQyMjg0MywtMT
-gwNTg0MjQ1MywtMTQxNTc2NDU0Miw5OTY5MDU2NzddfQ==
+eyJoaXN0b3J5IjpbLTQ1MTA4MjQ4NCwyMTM5NDU0NDA4LC0xND
+A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
+MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
+E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
