@@ -153,15 +153,111 @@ Coding by your_ID_name
 - [test3](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test3.cpp "test3.cpp")
 判斷是否有正整數平方根
 ```
-Enter N:25
+Enter N: 25
 Yes. 25 = 5 x 5
 Continue (Y/N):y
-Enter N:30
+Enter N: 30
 No.
 Continue (Y/N):n
 Coding by your_ID_name
 ```
 - [test4](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test4.cpp "test4.cpp")
+請輸入一連串介於0~100之間的成績，統計有多少筆成績，及格筆數，不及格筆數，及格成績分布
+```
+Enter a series of scores between0~100(
+
+-
+
+1 to exit).
+
+95
+
+77
+
+88
+
+42
+
+52
+
+75
+
+87
+
+77
+
+65
+
+79
+
+-
+
+1
+
+S
+
+cores listing:
+
+9
+
+5 77 88 42 52 75 87 77 65 79 //
+
+一列
+
+10
+
+個
+
+The summary:
+
+NumberCount = 10 //
+
+輸入多少個
+
+成績
+
+FailedCount = 2 //
+
+及格人數
+
+PassCount = 8 //
+
+不及格人數
+
+Average
+
+=
+
+73.7
+
+100 0 //
+
+成績
+
+100
+
+分之筆數
+
+90~99 1 * //
+
+成績落於
+
+90~99
+
+之筆數
+
+80~89 2 **
+
+70~79 4 ****
+
+60~69 1 *
+
+0
+
+~59 2 **
+
+Coding by your_ID_name
+```
 - [test5](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test5.cpp "test5.cpp")
 ***
 **w01**
@@ -616,7 +712,7 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzU4NzgxNiwyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbLTgxMTc1MzY2NywyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
