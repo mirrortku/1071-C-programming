@@ -553,12 +553,24 @@ C -> B
 **w08**
 - [magic](https://github.com/mirrortku/1071-C-programming/blob/master/w08/magic.cpp "magic.cpp")
 ```
-
+Diagonal Move
+ 11 18 25 2 9 
+ 10 12 19 21 3 
+ 4 6 13 20 22 
+ 23 5 7 14 16 
+ 17 24 1 8 15 
+ 
+Knight Move 
+ 17  6 25 14  3 
+ 11  5 19  8 22 
+ 10 24 13  2 16 
+ 4  18 7  21 15 
+ 23 12 1  20  9
 ```
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjE1MDkxMiwyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbMTg5MzExMTQ1NiwyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
