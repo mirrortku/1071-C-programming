@@ -164,79 +164,30 @@ Coding by your_ID_name
 - [test4](https://github.com/mirrortku/1071-C-programming/blob/master/second_test/test4.cpp "test4.cpp")
 請輸入一連串介於0~100之間的成績，統計有多少筆成績，及格筆數，不及格筆數，及格成績分布
 ```
-Enter a series of scores between0~100(
-
--
-
-1 to exit).
-
+Enter a series of scores between0~100(-1 to exit).
 95
-
 77
-
 88
-
 42
-
 52
-
 75
-
 87
-
 77
-
 65
-
 79
+-1
 
--
-
-1
-
-S
-
-cores listing:
-
-9
-
-5 77 88 42 52 75 87 77 65 79 //
-
-一列
-
-10
-
-個
-
+Scores listing:
+95 77 88 42 52 75 87 77 65 79 
 The summary:
-
-NumberCount = 10 //
-
-輸入多少個
-
-成績
-
-FailedCount = 2 //
-
-及格人數
-
-PassCount = 8 //
-
-不及格人數
-
-Average
-
-=
-
-73.7
-
+NumberCount = 10 
+輸入多少個成績
+FailedCount = 2 
+PassCount = 8 
+Average = 73.7
 100 0 //
 
-成績
-
-100
-
-分之筆數
+成績100分之筆數
 
 90~99 1 * //
 
@@ -712,7 +663,7 @@ Knight Move
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTc1MzY2NywyMTM5NDU0NDA4LC0xND
+eyJoaXN0b3J5IjpbLTUzMzE4MjY4NywyMTM5NDU0NDA4LC0xND
 A0NDg0NjA4LC04ODM3MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4
 MTMsLTEwMjg3NzUxNDEsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLT
 E4MDU4NDI0NTMsLTE0MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
