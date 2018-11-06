@@ -678,14 +678,30 @@ Knight Move
 ```
 ****
 **w09**
+- [data](https://github.com/mirrortku/1071-C-programming/blob/master/w09/data.cpp "data.cpp")
+```
+Enter N: 10
+
+ 2018/12/11 
+ 2011/06/08 
+ 2015/07/24 
+ 2010/06/29 
+ 2015/04/11 
+ 2017/08/08 
+ 2019/01/28 
+ 2017/03/30 
+ 2016/11/31 
+ 2015/03/25
+```
+- [lotto](https://github.com/mirrortku/1071-C-programming/blob/master/w09/lotto.cpp "lotto.cpp")
 
 
 ****
  ## Thanks for watching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMzkyNTcsLTE3MzYxMDg3MTcsMTYyMT
-U1NDA5OSwyMTM5NDU0NDA4LC0xNDA0NDg0NjA4LC04ODM3MDIy
-MDQsLTE1MzI3MjY2NzcsOTUwOTE4MTMsLTEwMjg3NzUxNDEsLT
-Y4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0MTU3
-NjQ1NDIsOTk2OTA1Njc3XX0=
+eyJoaXN0b3J5IjpbLTIxMzQxMzM4MzcsLTE3MzYxMDg3MTcsMT
+YyMTU1NDA5OSwyMTM5NDU0NDA4LC0xNDA0NDg0NjA4LC04ODM3
+MDIyMDQsLTE1MzI3MjY2NzcsOTUwOTE4MTMsLTEwMjg3NzUxND
+EsLTY4Njk0MzIyLDE5NTM0MjI4NDMsLTE4MDU4NDI0NTMsLTE0
+MTU3NjQ1NDIsOTk2OTA1Njc3XX0=
 -->
